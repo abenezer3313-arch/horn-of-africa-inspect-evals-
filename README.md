@@ -21,8 +21,6 @@ The project is intended to produce structured evaluation data that can be reused
 
 - `scrape_evals.py` — Unicode normalization, multilingual tokenization, script detection, and code-switching detection.
 - `inspect_eval.py` — evaluation entry point for the Inspect-based workflow.
-- `data/` — dataset documentation and schema.
-- `outputs/` — structured evaluation outputs.
 - `tests/` — automated tests for the preprocessing pipeline.
 - `docs/` — methodology and research documentation.
 
